@@ -1,8 +1,10 @@
 {
-  "name": "opensearch",
-  "fullName": "openSearch",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-  "version": "0.1"
+    "name": "OpenSearch Indexer",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+    "author": "",
+    "version": "0.1",
+    "fullName": "openSearch",
+    "id": "opensearch@prospector.labs.mozilla",
+    "description": "An addon that automatically adds all OpenSearch engines
+    enountered"
 }
