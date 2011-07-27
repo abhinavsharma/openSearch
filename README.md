@@ -1,5 +1,1 @@
-This is the openSearch add-on.  It contains:
-
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+A Firefox addon that adds any available OpenSearch engine it comes across.
